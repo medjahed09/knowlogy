@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medjahed09.github.io/knowlogy/sitemap.xml
